@@ -1,0 +1,1 @@
+shell script usando estrutura repetiçao for terminal
